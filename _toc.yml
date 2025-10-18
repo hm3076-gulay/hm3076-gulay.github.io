@@ -1,4 +1,9 @@
 format: jb-book
 root: index
+
 chapters:
-  - file: lecture_16_example
+  - file: lecture_16_example.ipynb
+
+  - file: project1.ipynb
+
+  #add new pages here
