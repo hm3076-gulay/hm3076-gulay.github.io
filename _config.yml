@@ -1,7 +1,7 @@
 # https://jupyterbook.org/customize/config.html
 
-title: "NAME's Portfolio"
-author: NAME
+title: "Gülay's Portfolio"
+author: Gülay
 
 # https://jupyterbook.org/v1/structure/configure.html#disable-building-files-that-arent-in-the-table-of-contents
 only_build_toc_files: true
