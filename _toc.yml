@@ -4,5 +4,6 @@ root: index
 chapters:
   - file: lecture_16_example
   - file: project1
+  - file: Project2
 
   #add new pages here 
